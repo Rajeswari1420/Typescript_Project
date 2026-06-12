@@ -1,4 +1,3 @@
-
 function test(){
   //  let x:number = 2;
     if(true){
